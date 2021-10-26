@@ -1,2 +1,2 @@
 # Linear_Regression
-Salary Prediction
+Simple Linear Regression Model that provides a comparison between predicted salaries based on experience.
